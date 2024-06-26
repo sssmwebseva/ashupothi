@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">॥ श्रीकृष्णविजय ॥</string>
+    <string name="action_settings">Settings</string>
+    <string name="index">अनुक्रमणिका</string>
+    <string-array name="fontFileNameArray">
+        <item>0_default.ttf</item>
+        <item>1_akshar.ttf</item>
+        <item>2_kanak.ttf</item>
+        <item>3_mangal.ttf</item>
+        <item>4_kiran.ttf</item>
+        <item>5_sharada.ttf</item>
+    </string-array>
+    <string name="splash_text_1">कै. गणेश नारायण मुजुमदार रचित</string>
+    <string name="splash_text_2">॥ श्रीकृष्णविजय ॥</string>
+    <string name="splash_text_3">( पूर्वार्ध आणि उत्तरार्ध )</string>
+    <string name="bookmark_file">org.android.swamipothi.bookmarks</string>
+    <string name="font_file">org.android.swamipothi.font</string>
+    <string name="swami_name">श्रीकृष्ण सरस्वती दत्त महाराज</string>
+    <string name="swami_born">जन्म - माघ वद्य पंचमी शके १७५७ रविवार ता. ७ फेब्रु. १८३६</string>
+    <string name="swami_tomb">समाधी - श्रावण वद्य दशमी शके १८२२ सोमवार ता. २० ऑगस्ट १९००</string>
+    <string name="introduction">प्रस्तावना</string>
+    <string name="puja_title">। सदगुरु मानस पुजा ।</string>
+    <string name="day">दिवस</string>
+    <string name="night">रात्र</string>
+    <string name="exit">बाहेर पडण्यासाठी BACK चे बटण दोनदा दाबा..!</string>
+    <string name="purvacharitra">पूर्वचरित्र</string>
+    <string name="uttarcharitra">उत्तरचरित्र</string>
+    <string name="end">समाप्त</string>
+    <string name="coming_soon">पुढील अध्याय लवकरच प्रकाशित होतील.</string>
+    <string-array name="chapterFileNameArrayUttar">
+        <item>adhyay-1-uttar.txt</item>
+        <item>adhyay-2-uttar.txt</item>
+        <item>adhyay-3-uttar.txt</item>
+        <item>adhyay-4-uttar.txt</item>
+        <item>adhyay-5-uttar.txt</item>
+        <item>adhyay-6-uttar.txt</item>
+        <item>adhyay-7-uttar.txt</item>
+        <item>adhyay-8-uttar.txt</item>
+        <item>adhyay-9-uttar.txt</item>
+        <item>adhyay-10-uttar.txt</item>
+        <item>adhyay-11-uttar.txt</item>
+        <item>adhyay-12-uttar.txt</item>
+        <item>adhyay-13-uttar.txt</item>
+        <item>adhyay-14-uttar.txt</item>
+        <item>adhyay-15-uttar.txt</item>
+        <item>adhyay-16-uttar.txt</item>
+        <item>adhyay-17-uttar.txt</item>
+        <item>adhyay-18-uttar.txt</item>
+        <item>adhyay-19-uttar.txt</item>
+        <item>adhyay-20-uttar.txt</item>
+        <item>adhyay-21-uttar.txt</item>
+        <item>adhyay-22-uttar.txt</item>
+        <item>adhyay-23-uttar.txt</item>
+        <item>adhyay-24-uttar.txt</item>
+        <item>adhyay-25-uttar.txt</item>
+        <item>pad-uttar.txt</item>
+    </string-array>
+    <string-array name="chapterFileNameArrayPurva">
+        <item>adhyay-1.txt</item>
+        <item>adhyay-2.txt</item>
+        <item>adhyay-3.txt</item>
+        <item>adhyay-4.txt</item>
+        <item>adhyay-5.txt</item>
+        <item>adhyay-6.txt</item>
+        <item>adhyay-7.txt</item>
+        <item>adhyay-8.txt</item>
+        <item>adhyay-9.txt</item>
+        <item>adhyay-10.txt</item>
+        <item>adhyay-11.txt</item>
+        <item>adhyay-12.txt</item>
+        <item>adhyay-13.txt</item>
+        <item>adhyay-14.txt</item>
+        <item>adhyay-15.txt</item>
+        <item>adhyay-16.txt</item>
+        <item>adhyay-17.txt</item>
+        <item>adhyay-18.txt</item>
+        <item>adhyay-19.txt</item>
+        <item>adhyay-20.txt</item>
+        <item>adhyay-21.txt</item>
+        <item>adhyay-22.txt</item>
+        <item>adhyay-23.txt</item>
+        <item>adhyay-24.txt</item>
+        <item>adhyay-25.txt</item>
+        <item>adhyay-26.txt</item>
+        <item>adhyay-27.txt</item>
+        <item>adhyay-28.txt</item>
+        <item>adhyay-29.txt</item>
+        <item>adhyay-30.txt</item>
+    </string-array>
+    <string-array name="chapterDisplayNameArrayPurva">
+        <item>अध्याय १ ला</item>
+        <item>अध्याय २ रा</item>
+        <item>अध्याय ३ रा</item>
+        <item>अध्याय ४ था</item>
+        <item>अध्याय ५ वा</item>
+        <item>अध्याय ६ वा</item>
+        <item>अध्याय ७ वा</item>
+        <item>अध्याय ८ वा</item>
+        <item>अध्याय ९ वा</item>
+        <item>अध्याय १० वा</item>
+        <item>अध्याय ११ वा</item>
+        <item>अध्याय १२ वा</item>
+        <item>अध्याय १३ वा</item>
+        <item>अध्याय १४ वा</item>
+        <item>अध्याय १५ वा</item>
+        <item>अध्याय १६ वा</item>
+        <item>अध्याय १७ वा</item>
+        <item>अध्याय १८ वा</item>
+        <item>अध्याय १९ वा</item>
+        <item>अध्याय २० वा</item>
+        <item>अध्याय २१ वा</item>
+        <item>अध्याय २२ वा</item>
+        <item>अध्याय २३ वा</item>
+        <item>अध्याय २४ वा</item>
+        <item>अध्याय २५ वा</item>
+        <item>अध्याय २६ वा</item>
+        <item>अध्याय २७ वा</item>
+        <item>अध्याय २८ वा</item>
+        <item>अध्याय २९ वा</item>
+        <item>अध्याय ३० वा</item>
+    </string-array>
+    <string-array name="chapterDisplayNameArrayUttar">
+        <item>अध्याय १ ला</item>
+        <item>अध्याय २ रा</item>
+        <item>अध्याय ३ रा</item>
+        <item>अध्याय ४ था</item>
+        <item>अध्याय ५ वा</item>
+        <item>अध्याय ६ वा</item>
+        <item>अध्याय ७ वा</item>
+        <item>अध्याय ८ वा</item>
+        <item>अध्याय ९ वा</item>
+        <item>अध्याय १० वा</item>
+        <item>अध्याय ११ वा</item>
+        <item>अध्याय १२ वा</item>
+        <item>अध्याय १३ वा</item>
+        <item>अध्याय १४ वा</item>
+        <item>अध्याय १५ वा</item>
+        <item>अध्याय १६ वा</item>
+        <item>अध्याय १७ वा</item>
+        <item>अध्याय १८ वा</item>
+        <item>अध्याय १९ वा</item>
+        <item>अध्याय २० वा</item>
+        <item>अध्याय २१ वा</item>
+        <item>अध्याय २२ वा</item>
+        <item>अध्याय २३ वा</item>
+        <item>अध्याय २४ वा</item>
+        <item>अध्याय २५ वा</item>
+        <item>पदे</item>
+    </string-array>
+</resources>

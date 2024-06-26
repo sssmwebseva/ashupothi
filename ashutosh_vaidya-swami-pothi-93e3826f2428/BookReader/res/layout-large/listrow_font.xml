@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/listrow_textViewFontName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="12dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="12dp"
+        android:text="Font 1"
+        android:gravity="center"
+        android:layout_margin="5dp"
+        android:textColor="@drawable/list_color_selector"
+        android:background="@drawable/list_selector"
+        android:textSize="20sp" />
+
+</LinearLayout>

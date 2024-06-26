@@ -1,0 +1,80 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+    android:id="@+id/home_relativeLayoutMain"
+    android:background="@drawable/bg">
+
+   
+    <LinearLayout 
+        android:id="@+id/LinearLayout02" 
+        android:layout_height="wrap_content" 
+        android:layout_width="match_parent">
+        
+        <TextView
+        android:id="@+id/textView1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+       	android:layout_margin="5dp"
+       	android:layout_weight="1"
+        android:background="@drawable/list_selector1"
+        android:paddingBottom="17dp"
+       	android:paddingLeft="10dp"
+        android:paddingTop="17dp"
+   		android:textColor="@drawable/list_color_selector1"
+        android:text="@string/purvacharitra"
+        android:gravity="center" 
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+<TextView
+        android:id="@+id/textView2"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:paddingBottom="17dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="17dp"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:textColor="@drawable/list_color_selector1"
+        android:background="@drawable/list_selector1"
+        android:text="@string/uttarcharitra"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+                
+    </LinearLayout>
+   
+
+   
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_below="@+id/LinearLayout02" >
+        
+        
+ 		<ListView
+        	android:listSelector="#00000000"
+        	android:layout_width="fill_parent"
+        	android:layout_height="fill_parent"
+        	android:layout_weight="1"
+        	android:gravity="center"
+        	android:id="@+id/home_ListViewChapters">
+    	</ListView>       
+        
+        <ListView
+        	android:listSelector="#00000000"
+        	android:layout_width="fill_parent"
+        	android:layout_height="fill_parent"
+        	android:layout_weight="1"
+        	android:layout_gravity="center_horizontal"
+        	android:id="@+id/home_ListViewChapters1">
+    	</ListView>       
+        
+        
+    </LinearLayout>
+    
+    
+</RelativeLayout>
